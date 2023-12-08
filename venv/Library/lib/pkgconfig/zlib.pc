@@ -1,8 +1,8 @@
-prefix=E:/FinalyearProject/AQI/venv/Library
-exec_prefix=E:/FinalyearProject/AQI/venv/Library
-libdir=E:/FinalyearProject/AQI/venv/Library/lib
-sharedlibdir=E:/FinalyearProject/AQI/venv/Library/lib
-includedir=E:/FinalyearProject/AQI/venv/Library/include
+prefix=e:/FinalyearProject/AQI/venv/Library
+exec_prefix=e:/FinalyearProject/AQI/venv/Library
+libdir=e:/FinalyearProject/AQI/venv/Library/lib
+sharedlibdir=e:/FinalyearProject/AQI/venv/Library/lib
+includedir=e:/FinalyearProject/AQI/venv/Library/include
 
 Name: zlib
 Description: zlib compression library

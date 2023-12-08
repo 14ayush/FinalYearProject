@@ -1,0 +1,182 @@
+{
+  "build": "py310haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.10,<3.11.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\aayus\\anaconda3\\pkgs\\exceptiongroup-1.0.4-py310haa95532_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/exceptiongroup-1.0.4.dist-info/INSTALLER",
+    "Lib/site-packages/exceptiongroup-1.0.4.dist-info/LICENSE",
+    "Lib/site-packages/exceptiongroup-1.0.4.dist-info/METADATA",
+    "Lib/site-packages/exceptiongroup-1.0.4.dist-info/RECORD",
+    "Lib/site-packages/exceptiongroup-1.0.4.dist-info/REQUESTED",
+    "Lib/site-packages/exceptiongroup-1.0.4.dist-info/WHEEL",
+    "Lib/site-packages/exceptiongroup-1.0.4.dist-info/direct_url.json",
+    "Lib/site-packages/exceptiongroup/__init__.py",
+    "Lib/site-packages/exceptiongroup/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/exceptiongroup/__pycache__/_catch.cpython-310.pyc",
+    "Lib/site-packages/exceptiongroup/__pycache__/_exceptions.cpython-310.pyc",
+    "Lib/site-packages/exceptiongroup/__pycache__/_formatting.cpython-310.pyc",
+    "Lib/site-packages/exceptiongroup/__pycache__/_version.cpython-310.pyc",
+    "Lib/site-packages/exceptiongroup/_catch.py",
+    "Lib/site-packages/exceptiongroup/_exceptions.py",
+    "Lib/site-packages/exceptiongroup/_formatting.py",
+    "Lib/site-packages/exceptiongroup/_version.py",
+    "Lib/site-packages/exceptiongroup/py.typed",
+    ".nonadmin"
+  ],
+  "fn": "exceptiongroup-1.0.4-py310haa95532_0.conda",
+  "legacy_bz2_md5": "9b633859a365fd5f57ff3a516c1cb630",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\aayus\\anaconda3\\pkgs\\exceptiongroup-1.0.4-py310haa95532_0",
+    "type": 1
+  },
+  "md5": "2e299570248c87f892611ffc42b5e39d",
+  "name": "exceptiongroup",
+  "package_tarball_full_path": "C:\\Users\\aayus\\anaconda3\\pkgs\\exceptiongroup-1.0.4-py310haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/exceptiongroup-1.0.4.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/exceptiongroup-1.0.4.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "6e5070d765031e0ad403a1cbf90ae6d19a0228f802e320b7acff460aa72ed47c",
+        "sha256_in_prefix": "6e5070d765031e0ad403a1cbf90ae6d19a0228f802e320b7acff460aa72ed47c",
+        "size_in_bytes": 3704
+      },
+      {
+        "_path": "Lib/site-packages/exceptiongroup-1.0.4.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "382ebacd8627a9bccfc8e8d5cd6ab4d2ea65e57f697b5273d6cdce3f091059d0",
+        "sha256_in_prefix": "382ebacd8627a9bccfc8e8d5cd6ab4d2ea65e57f697b5273d6cdce3f091059d0",
+        "size_in_bytes": 6083
+      },
+      {
+        "_path": "Lib/site-packages/exceptiongroup-1.0.4.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "f667c4f24bd4e869f95af5311097c0e690ffcab298a1b77162dd1a1eed49a8f3",
+        "sha256_in_prefix": "f667c4f24bd4e869f95af5311097c0e690ffcab298a1b77162dd1a1eed49a8f3",
+        "size_in_bytes": 1398
+      },
+      {
+        "_path": "Lib/site-packages/exceptiongroup-1.0.4.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/exceptiongroup-1.0.4.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "8cf311fc3ce47385f889c42d9b3f35967358fe402c7e883baf2eeaa11bd82d7c",
+        "sha256_in_prefix": "8cf311fc3ce47385f889c42d9b3f35967358fe402c7e883baf2eeaa11bd82d7c",
+        "size_in_bytes": 81
+      },
+      {
+        "_path": "Lib/site-packages/exceptiongroup-1.0.4.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "8f570ada04ccaee1bcd7a7a7c1f3d391d65a9def50477e9b46b1dbb98ca9cfce",
+        "sha256_in_prefix": "8f570ada04ccaee1bcd7a7a7c1f3d391d65a9def50477e9b46b1dbb98ca9cfce",
+        "size_in_bytes": 94
+      },
+      {
+        "_path": "Lib/site-packages/exceptiongroup/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "66bf8c3160d714c76b4410bc9d2f1416a0134502f467e2dbf9200daacfaebb42",
+        "sha256_in_prefix": "66bf8c3160d714c76b4410bc9d2f1416a0134502f467e2dbf9200daacfaebb42",
+        "size_in_bytes": 920
+      },
+      {
+        "_path": "Lib/site-packages/exceptiongroup/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "04888b55d67571a59a0549ea53155e2b454139d092b219bf8e25bdc8598021cf",
+        "sha256_in_prefix": "04888b55d67571a59a0549ea53155e2b454139d092b219bf8e25bdc8598021cf",
+        "size_in_bytes": 729
+      },
+      {
+        "_path": "Lib/site-packages/exceptiongroup/__pycache__/_catch.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "a2b4c5e86f41062dcca18d00ed23ff7fe9a5347219fe9384233b1fe34d9a38c3",
+        "sha256_in_prefix": "a2b4c5e86f41062dcca18d00ed23ff7fe9a5347219fe9384233b1fe34d9a38c3",
+        "size_in_bytes": 2855
+      },
+      {
+        "_path": "Lib/site-packages/exceptiongroup/__pycache__/_exceptions.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "81fbd4f048631d510960300a14757e7b2d0dd9a81d6115419615dcdc44ab11c5",
+        "sha256_in_prefix": "81fbd4f048631d510960300a14757e7b2d0dd9a81d6115419615dcdc44ab11c5",
+        "size_in_bytes": 8739
+      },
+      {
+        "_path": "Lib/site-packages/exceptiongroup/__pycache__/_formatting.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "375f33f7be3770d744db638d102e7472655ea7c651c112478111347bbe794a38",
+        "sha256_in_prefix": "375f33f7be3770d744db638d102e7472655ea7c651c112478111347bbe794a38",
+        "size_in_bytes": 11686
+      },
+      {
+        "_path": "Lib/site-packages/exceptiongroup/__pycache__/_version.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "599ac09816d898afb993bb8ac17223480b4922b0309439096b6604833268c556",
+        "sha256_in_prefix": "599ac09816d898afb993bb8ac17223480b4922b0309439096b6604833268c556",
+        "size_in_bytes": 232
+      },
+      {
+        "_path": "Lib/site-packages/exceptiongroup/_catch.py",
+        "path_type": "hardlink",
+        "sha256": "9bb04745253f90acbfa6a30848f02b7fdf735b5460306d348bceb6ddfeffb04a",
+        "sha256_in_prefix": "9bb04745253f90acbfa6a30848f02b7fdf735b5460306d348bceb6ddfeffb04a",
+        "size_in_bytes": 3578
+      },
+      {
+        "_path": "Lib/site-packages/exceptiongroup/_exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "71de80c22eb96c1f7842bfe33f39da31ef014563cbb70062b2eecfa64f3f30b3",
+        "sha256_in_prefix": "71de80c22eb96c1f7842bfe33f39da31ef014563cbb70062b2eecfa64f3f30b3",
+        "size_in_bytes": 9687
+      },
+      {
+        "_path": "Lib/site-packages/exceptiongroup/_formatting.py",
+        "path_type": "hardlink",
+        "sha256": "2c1bfde3ba967a0d9fa045cfc20265f52f65a766c7e0e7d1956ab1a976173998",
+        "sha256_in_prefix": "2c1bfde3ba967a0d9fa045cfc20265f52f65a766c7e0e7d1956ab1a976173998",
+        "size_in_bytes": 19035
+      },
+      {
+        "_path": "Lib/site-packages/exceptiongroup/_version.py",
+        "path_type": "hardlink",
+        "sha256": "17ecbf7380f7fb5293656948d9b2bfd8cf6691decea09019894a10df4fac8435",
+        "sha256_in_prefix": "17ecbf7380f7fb5293656948d9b2bfd8cf6691decea09019894a10df4fac8435",
+        "size_in_bytes": 181
+      },
+      {
+        "_path": "Lib/site-packages/exceptiongroup/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "exceptiongroup",
+  "sha256": "58ce2d58320afee1e36f217359296ab4d8c92255b3476a347992e4312f00c4fe",
+  "size": 29739,
+  "subdir": "win-64",
+  "timestamp": 1668714412704,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/exceptiongroup-1.0.4-py310haa95532_0.conda",
+  "version": "1.0.4"
+}
